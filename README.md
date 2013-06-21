@@ -1,6 +1,7 @@
 Random Bluetooth Check
 
 Download APK: https://raw.github.com/frankkienl/RandomBluetoothCheck/master/BluetoothCheck.apk
+Google Play: https://play.google.com/store/apps/details?id=nl.frankkie.bluetoothcheck
 
 ![Screenshot](https://raw.github.com/frankkienl/RandomBluetoothCheck/master/device-2013-06-21-211350.png "pic1")
 ![Screenshot](https://raw.github.com/frankkienl/RandomBluetoothCheck/master/device-2013-06-21-211422.png "pic2")
@@ -22,6 +23,5 @@ if (getPackageManager().hasSystemFeature("android.hardware.bluetooth")){
     Toast.makeText(MainActivity.this, "There is NO support for Bluetooth.", Toast.LENGTH_LONG).show();
 }
 ```
-
 
 This file was created by Android Studio (I/O Preview) AI-130.709792 for binding GitHub repository
