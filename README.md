@@ -1,6 +1,7 @@
 Random Bluetooth Check
 
 Download APK: https://raw.github.com/frankkienl/RandomBluetoothCheck/master/BluetoothCheck.apk
+
 Google Play: https://play.google.com/store/apps/details?id=nl.frankkie.bluetoothcheck
 
 ![Screenshot](https://raw.github.com/frankkienl/RandomBluetoothCheck/master/device-2013-06-21-211350.png "pic1")
